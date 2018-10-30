@@ -1,0 +1,14 @@
+--------------------------------------------------------
+**
+throw error; Unhandled 'error' event
+**
+-> the problem was another instance was running.
+-> Search for other node instance running and kill it.
+-> netstat -nlp | grep portNum
+-> kill -9 nodeNum
+--------------------------------------------------------
+** Web Develop Blog
+https://velopert.com/294
+
+https://m.blog.naver.com/PostList.nhn?blogId=spirit0833
+--------------------------------------------------------
